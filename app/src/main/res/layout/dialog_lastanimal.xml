@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#232323"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:id="@+id/warning_lastanimal">
+
+    <TextView
+        android:id="@+id/warning_sign"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Warning"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        android:layout_margin="90dp"></TextView>
+
+    <TextView
+        android:id="@+id/are_you_sure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Warning"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        android:layout_margin="90dp"></TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="GO IN"
+            android:layout_marginTop="40dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="DON'T GO IN"/>
+
+        </LinearLayout>
+    </RelativeLayout>

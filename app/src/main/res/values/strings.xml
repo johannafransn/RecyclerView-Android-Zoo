@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Farm Zoo</string>
+    <string name="zoo_info">Zoo Info</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="menu">Menu</string>
+    <string name="descrip_info">Welcome to my vegan-friendly zoo where all animals are rescue animals and up for adoption. Feel free contact the zoo below if you have any questions. Thanks!</string>
+
+    <string-array name="different_animals">
+        //Follow the order of the animals
+        <item>Rooster</item>
+        <item>Cow</item>
+        <item>Stallion</item>
+        <item>Pony</item>
+        <item>Barncat</item>
+        <item>Sheep</item>
+        <item>Bunny</item>
+        <item>Goat</item>
+    </string-array>
+
+    <string-array name="description_animals">
+        //Follow the order of the animals
+        <item>Ragnar the Rooster</item>
+        <item>Celina the Cow</item>
+        <item>Simon the Stallion</item>
+        <item>Pippi the Pony</item>
+        <item>Bobby the Barncat</item>
+        <item>Shenina the Sheep</item>
+        <item>Bonny the Bunny</item>
+        <item>Greta the Goat</item>
+    </string-array>
+
+    <string-array name="description_animals_long">
+        //Follow the order of the animals
+        <item>Ragnar the Rooster is a fantastic rooster. He likes to eat oat flakes and hang out with the hens. He is 2 years old and was rescued from the meat industry that wanted to make him into a chicken nugget.</item>
+        <item>Celina the Cow is nice cow. She is our oldest animal on the farm. She was rescued from the very scary dairy industry. She likes to eat grass and lay out in the sun. </item>
+        <item>Simon the Stallion is a big horse. His previous owner would neglect him and he was very skinny when he first came to the farm. Now he is our biggest animal.</item>
+        <item>Pippi the Pony is so sweet. She was rescued as a cirkus pony where she was not allowed to go outside. Now she gallops the pasture and is our fastest animal. </item>
+        <item>Bobby the Barncat was orginally a stray that we saved from the streets. He is all of the childrens favorite animal.</item>
+        <item>Shenina the Sheep is quite shy. Shy Shenina was also rescued recently from a meat factory. She likes to eat apples. </item>
+        <item>Bonny the Bunny is very boring. Not much to say about Boring Bonny the Bunny.</item>
+        <item>Greta the Goat is protective of her babies. She is our newest animal to the farm, and was pregnant when we rescued her from the meat industry.</item>
+    </string-array>
+
+</resources>
